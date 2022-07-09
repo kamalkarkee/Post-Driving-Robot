@@ -1,0 +1,8 @@
+Team Website Information
+
+The domain and directory selected above represent a URL (a web page link) and also a physical path on the server's hard drive, both of which are shown here:
+http://djm1271.uta.cloud/
+/home/djm1271/public_html/
+
+administrator
+Positronrover21!
