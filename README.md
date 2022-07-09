@@ -64,11 +64,11 @@ down menu and select "Save". Enter 'example.txt' to save your current mission.
 Contributors
 
 Thanks to the following people who have contributed to this project:
-Daniel Marks
-Nathan Fusselman
-Oscar Mariscal
-Deborah Jahaj
-Kamal Karkidholi
+Daniel Marks 
+Nathan Fusselman 
+Oscar Mariscal 
+Deborah Jahaj 
+Kamal Karkidholi 
 
 Visit us at: https://djm1271.uta.cloud/
 
